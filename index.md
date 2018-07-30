@@ -6,5 +6,4 @@ layout: home
 title: Kynologisch CV
 icon: fa-home
 order: 1
-hide:true
 ---
