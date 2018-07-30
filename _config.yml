@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Haroun Pacquée
-subtitle: Kynologisch CV
+subtitle: Kynologisch enthousiasteling
 description: >- # this means to ignore newlines until "baseurl:"
   Deze site bevat info over mijn kynologische loopbaan, cursussen, workshops, etc.
 author: Haroun Pacquée
